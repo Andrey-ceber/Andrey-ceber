@@ -30,8 +30,8 @@ Commercial & Marketing Director | Industrial Manufacturing | AI & Automation Ent
   - Prompt engineering and applied LLMs
 
 - 📫 How to reach me:
-  - Telegram: @andrey_ceber
-  - Email: andrey.ceber@gmail.com
+  - Telegram: @bandrey2002
+  - Email: bandrey20022@gmail.com
 
 - 😄 Pronouns:
   - he / him
