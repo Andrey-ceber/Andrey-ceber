@@ -79,11 +79,17 @@ Packaging products and services for B2B audiences.
 
 ---
 
-### 🚀 Featured project
+### 🚀 Projects
 
-[![ZeroSMM Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Andrey-ceber&repo=ZeroSMM-Assistant-of-travel-post-generation&theme=tokyonight)](https://github.com/Andrey-ceber/ZeroSMM-Assistant-of-travel-post-generation)
+| Project | What it does | Stack |
+|---|---|---|
+| [ZeroSMM](https://github.com/Andrey-ceber/ZeroSMM-Assistant-of-travel-post-generation) | AI assistant for a travel blog: generates posts (GPT-4o) and images (DALL·E 3), publishes to Telegram/VK on schedule, tracks engagement | Python, Flask, OpenAI API |
+| [research-agent](https://github.com/Andrey-ceber/research-agent) | Claude Code agent: market research and go / no-go decision for a tender | Claude Code, Markdown, HTML dashboard |
+| [restaurant-booking-system](https://github.com/Andrey-ceber/restaurant-booking-system) | Table booking with overlap checks, CRUD driver and desktop GUI | Python, PostgreSQL, Tkinter |
+| [vk-weather-bot](https://github.com/Andrey-ceber/vk-weather-bot) | VK community bot: current weather, 5-day forecast, city comparison | Python, vkbottle, OpenWeatherMap |
+| [currency-travel-bot](https://github.com/Andrey-ceber/currency-travel-bot) | Telegram travel wallet with currency conversion and expense history | Python, Telegram Bot API, SQLite |
+| [pdf-receipt-generator](https://github.com/Andrey-ceber/pdf-receipt-generator) | CLI generator of PDF receipts from an HTML template and CSV | Python, WeasyPrint |
 
-AI assistant for a travel blog — Telegram bot + web panel. Generates posts (GPT-4o) and images (DALL·E 3), publishes to Telegram/VK on schedule, tracks engagement analytics. Python · Flask · OpenAI API.
 
 ---
 
