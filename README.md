@@ -83,6 +83,7 @@ Packaging products and services for B2B audiences.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [SlotFlow](https://github.com/Andrey-ceber/slotflow-booking-system) | Educational booking app: schedules, availability and overlap checks | Python, Flask, SQLite |
 | [ZeroSMM](https://github.com/Andrey-ceber/ZeroSMM-Assistant-of-travel-post-generation) | AI assistant for a travel blog: generates posts (GPT-4o) and images (DALL·E 3), publishes to Telegram/VK on schedule, tracks engagement | Python, Flask, OpenAI API |
 | [research-agent](https://github.com/Andrey-ceber/research-agent) | Claude Code agent: market research and go / no-go decision for a tender | Claude Code, Markdown, HTML dashboard |
 | [restaurant-booking-system](https://github.com/Andrey-ceber/restaurant-booking-system) | Table booking with overlap checks, CRUD driver and desktop GUI | Python, PostgreSQL, Tkinter |
